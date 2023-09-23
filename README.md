@@ -1,18 +1,18 @@
 # Adonai International Ministries Website
 
-## This website was created using [Bun](bun.sh) and [NextJS](nextjs.org)
+## This website was created using [Bun](https://bun.sh) and [NextJS](https://nextjs.org)
 
 > **Warning**
-> This project is my first full website made with [NextJS](nextjs.org)
+> This project is my first full website made with [NextJS](https://nextjs.org)
 >
-> It also contains [Bun](bun.sh) a new runtime for javaScript that will need to be installed before continuing with the project
+> It also contains [Bun](https://bun.sh) a new runtime for javaScript that will need to be installed before continuing with the project
 
 ## Tech Stack
 
-- Framework: [NextJS](nextjs.org)
-- Styling: [Tailwind CSS](tailwindcss.com)
-- UI Components: [Shadcn UI](ui.shadcn.com)
-- Icons: [Lucide Icons](lucide.dev)
+- Framework: [NextJS](https://nextjs.org)
+- Styling: [Tailwind CSS](https://tailwindcss.com)
+- UI Components: [Shadcn UI](https://ui.shadcn.com)
+- Icons: [Lucide Icons](https://lucide.dev)
 
 ## Running the website locally
 
